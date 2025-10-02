@@ -41,3 +41,7 @@ document.getElementById("btn").addEventListener('click', function () {
 function atualizarSaldo() {
   document.getElementById('saldo').textContent = saldo.toFixed(2);
 }
+function atualizarSaldo() {
+  document.getElementById('saldo').textContent = saldo.toFixed(2);
+}
+
