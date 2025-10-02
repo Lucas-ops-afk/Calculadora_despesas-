@@ -83,7 +83,7 @@ h1 {
 
 #btn {
   padding: 10px;
-  background: linear-gradient(135deg, #4dbff3, #2b1969);
+  background: linear-gradient(135deg, white, grey);
   color: white;
   border: none;
   border-radius: 5px;
@@ -129,6 +129,7 @@ h3 {
   margin-top: 15px;
   color: #f5f5f5;
 }
+
 
 
 
